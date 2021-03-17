@@ -1,6 +1,6 @@
 # GROWTH MINDSET
 
-> “A growth mindset is when students understand that their abilities can be developed”
+>A growth mindset is when students understand that their abilities can be developed.
 *(Dweck, 2014)*
 
 ![Growthmindset](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
