@@ -1,2 +1,2 @@
-[growth-mindset](Lab02.md)
+[Growth-mindset](Lab02.md)
 
