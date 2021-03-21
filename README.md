@@ -13,3 +13,4 @@ My name is Layana Baba, i'm a chemical engineer, i have 24 years.
 |    Read03a            |[Structure web pages with HTML](read03a.md) |
 |    Growth-mindset     |[Growth-mindset](Lab02.md)                  |
 |    Read04a            |[Programming with JavaScript](read04a.md)   | 
+|    Read05             |[Operators and Loops](read05.md)            | 
