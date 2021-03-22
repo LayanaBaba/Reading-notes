@@ -3,9 +3,9 @@ On pages 150,151,156 and 157: there are some of comparison operators, and the re
 != is not equal to: This operator compares two values to see if they are not the same.
 === strict equal to: this operator check that both the data type and value are the same.
 !== strict not equal to: this operator check that both the data tyre and value are not the same.
-> greater than :this operator checks if the number on the left is greater than the number on the right.
+(>)  greater than :this operator checks if the number on the left is greater than the number on the right.
 < less thaan: this operator checks if the number on the left is less than the number on the right.
->= greater than or equal to: this operator checks if the number on the left is greater than or equal to the number on the right.
+(>=) greater than or equal to: this operator checks if the number on the left is greater than or equal to the number on the right.
 <= less than or equal to: this operator checks if the number on the left is less than or equal to the number on the right.
 Logical operators allow you to compare the results of more than one comparison operator.
 && Logical and : This operator tests more than one condition.
