@@ -7,5 +7,5 @@ CSS color systems:
 * HEX codes: represent values for red, green, and blue in hexadecimal code.
 * Color name: Colors are represented by predefined names.
 
-Make sure When picking foreground and background colors, there is enough contrast for the text to be legible. Opacity allows you to specify the opacity of an element and any ot its child elements, the value ia a number between 0.0 and 1.0.
-HSL color property: the value of the property starts with the letters hsl, followed by individual values inside parentheses for HUE,saturation, lightness, and alpha.
+Make sure When picking foreground and background colors, there is enough contrast for the text to be legible. Opacity allows you to specify the opacity of an element and any on its child elements, the value ia a number between 0.0 and 1.0.
+HSL color property: the value of the property starts with the letters hsl, followed by individual values inside parentheses for HUE, saturation, lightness, and alpha.
