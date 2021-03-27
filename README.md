@@ -19,7 +19,8 @@ My name is Layana Baba, i'm a chemical engineer, i have 24 years.
 
 
 #### Code 201 Reading Notes:
-|     Assignment   |                                Link                                                |
+
+|    Assignment   |                                 Link                                                |
 |------------------|------------------------------------------------------------------------------------|
 |    Read01        |[Introductory HTML and JavaScript](Code-201/read01.md)                              |
 |    Read02        |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code-201/read02.md)|
@@ -36,3 +37,6 @@ My name is Layana Baba, i'm a chemical engineer, i have 24 years.
 |    Read13        |[Local Storage](Code-201/read13.md)                                                 |
 |    Read14a       |[CSS Transforms, Transitions, and Animations](Code-201/read14a.md)                  |
 |    Read14b       |[What Goagle Learned About Teams](Code-201/read14b.md)                              |
+
+
+
