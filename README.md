@@ -17,14 +17,6 @@ My name is Layana Baba, i'm a chemical engineer, i have 24 years.
 |    Read05             |[Operators and Loops](Code-102/read05.md)            | 
 |    Read06             |[Design web pages with CSS](Code-102/read06.md)      |
 
-
-
-
-
-
-
-
-
 #### Code 201 Reading Notes:
 |     Assignment   |                                Link                                                |
 |------------------|------------------------------------------------------------------------------------|
@@ -33,8 +25,10 @@ My name is Layana Baba, i'm a chemical engineer, i have 24 years.
 |    Read03        |[HTML Lists, CSS Boxes, JS Control Flow](Code-201/read03.md)                        |
 |    Read04        |[HTML Links, CSS Layout, JS Functions](Code-201/read04.md)                          |
 |    Read05        |[HTML Images; CSS Color & Text](Code-201/read05.md)                                 |
-|    Read06        |[JS Object Literals; The DOM](Code-201/read06.md)                                   ||    Read07        |[HTML Tables; JS Constructor Functions](Code-201/read07.md)                         |
-|    Read08        |[More CSS Layout](Code-201/read08.md)                                               ||    Read09        |[Forms and Events](Code-201/read09.md)                                              |
+|    Read06        |[JS Object Literals; The DOM](Code-201/read06.md)                                   |
+|    Read07        |[HTML Tables; JS Constructor Functions](Code-201/read07.md)                         |
+|    Read08        |[More CSS Layout](Code-201/read08.md)                                               |
+|    Read09        |[Forms and Events](Code-201/read09.md)                                              |
 |    Read10        |[JS Debugging](Code-201/read10.md)                                                  |
 |    Read11        |[Assarted Topics](Code-201/read11.md)                                               |
 |    Read12        |[Docs for the HTML Elements & Chart.js](Code-201/read12.md)                         |
