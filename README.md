@@ -23,7 +23,7 @@ My name is Layana Baba, i'm a chemical engineer, i have 24 years.
 |    Assignment   |                                 Link                                                |
 |------------------|------------------------------------------------------------------------------------|
 |    Read01        |[Introductory HTML and JavaScript](Code-201/read01.md)                              |
-|    Read02        |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code-201/read02.md)|
+|    Read02        |[Basics of HTML, CSS & JS](Code-201/read02.md)                                      |
 |    Read03        |[HTML Lists, CSS Boxes, JS Control Flow](Code-201/read03.md)                        |
 |    Read04        |[HTML Links, CSS Layout, JS Functions](Code-201/read04.md)                          |
 |    Read05        |[HTML Images; CSS Color & Text](Code-201/read05.md)                                 |
