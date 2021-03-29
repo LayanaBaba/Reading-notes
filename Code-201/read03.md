@@ -41,9 +41,9 @@ This expression is evaluated once. And it allow you to compare a value against p
 * LOOP:
 Loops check a condition, it repeats until the condition returns false. The types of loops:
 
--For: if you need to run code a specific number of times.
+- For: if you need to run code a specific number of times.
 
--While : if you don't know how many times the code should run. A for loop uses a counter as a condition. The condition consists of three statements, initialization [create a variable set it to 0. (var i = 0;)], condition [ the loop should continue to run until the counter reaches a specific number (i< x;)], and update [ it adds one to the counter (i++)]. 
+- While : if you don't know how many times the code should run. A for loop uses a counter as a condition. The condition consists of three statements, initialization [create a variable set it to 0. (var i = 0;)], condition [ the loop should continue to run until the counter reaches a specific number (i< x;)], and update [ it adds one to the counter (i++)]. 
  
 
 
