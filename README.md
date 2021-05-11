@@ -1,12 +1,13 @@
 # Reading notes
 
-## About me:
-My name is Layana Baba, i'm a chemical engineer, i have 24 years. 
-[Github profile](https://github.com/LayanaBaba) 
+### About me:
+* My name is Layana Baba, i'm a chemical engineer, i have 24 years. 
 
-### Code 102 Reading Notes:
+[My Github profile](https://github.com/LayanaBaba) 
 
-|     Assignment        |                 Link                                |
+## Code 102 - Intro to Software Development:
+
+|     *Assignment*      |                  *Link*                             |
 |-----------------------|-----------------------------------------------------|
 |    Read01             |[The coder's Computer](Code-102/read01.md)           |
 |    Read02a            |[Learning Markdown](Code-102/read02a.md)             |
@@ -18,9 +19,9 @@ My name is Layana Baba, i'm a chemical engineer, i have 24 years.
 |    Read06             |[Design web pages with CSS](Code-102/read06.md)      |
 
 
-#### Code 201 Reading Notes:
+## Code 201 - Foundations of Software Development:
 
-|    Assignment   |                                 Link                                                |
+|   *Assignment*   |                                 *Link*                                             |
 |------------------|------------------------------------------------------------------------------------|
 |    Read01        |[Introductory HTML and JavaScript](Code-201/read01.md)                              |
 |    Read02        |[Basics of HTML, CSS & JS](Code-201/read02.md)                                      |
@@ -36,7 +37,29 @@ My name is Layana Baba, i'm a chemical engineer, i have 24 years.
 |    Read12        |[Docs for the HTML Elements & Chart.js](Code-201/read12.md)                         |
 |    Read13        |[Local Storage](Code-201/read13.md)                                                 |
 |    Read13b       |[CSS Transforms, Transitions, and Animations](Code-201/read13b.md)                  |
-|    Read14        |[What Goagle Learned About Teams](Code-201/read14.md)                              |
+|    Read14        |[What Goagle Learned About Teams](Code-201/read14.md)                               |
 
 
+## Code 301 - Intermediate Software Development:
+
+|   *Assignment*   |                                 *Link*                                             |
+|------------------|------------------------------------------------------------------------------------|
+|    Read01        |[Introduction to React and Components](Code-301/read01.md)                          |
+|    Read02        |[State and Props](Code-301/read02.md)                                               |
+|    Read03        |[Passing Functions as Props](Code-301/read03.md)                                    |
+|    Read04        |[React and Forms](Code-301/read04.md)                                               |
+|    Read05        |[Putting it all together](Code-301/read05.md)                                       |
+|    Read06        |[NODE.JS](Code-301/read06.md)                                                       |
+|    Read07        |[REST](Code-301/read07.md)                                                          |
+|    Read08        |[APIs](Code-301/read08.md)                                                          |
+|    Read09        |[FUNCTIONAL PROGRAMMING](Code-301/read09.md)                                        |
+|    Read10        |[In memory storage](Code-301/read10.md)                                             |
+|    Read11        |[Authentication](Code-301/read11.md)                                                |
+|    Read12        |[Mongo and Mongoose](Code-301/read12.md)                                            |
+|    Read13        |[CRUD](Code-301/read13.md)                                                          |
+|    Read14        |[Diversity & Inclusion in the Tech Industry](Code-301/read14.md)                    |
+|    Read14b       |[Project Ideas](Code-301/read14b.md)                                                |
+|    Read15        |[Project Kickoff](Code-301/read15.md)                                               |
+
+## Code 401 - Advanced Software Development:
 
