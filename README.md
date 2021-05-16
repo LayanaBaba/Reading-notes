@@ -1,7 +1,7 @@
 # Reading notes
 
 ### About me:
-* My name is Layana Baba, i'm a chemical engineer, i worked in quality control departement foa the UGC, i have 24 years. 
+* My name is Layana Baba, i'm a chemical engineer, i worked in quality control departement for the UGC, i have 24 years. 
 
 [My Github profile](https://github.com/LayanaBaba)
 
