@@ -44,5 +44,3 @@ renderSquare method, change the code to pass a prop called value to the Square.
 
 - React.Compnent.
 - ShoppingList.
-
-
