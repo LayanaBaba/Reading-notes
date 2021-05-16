@@ -14,7 +14,7 @@
 - **Not context specific:** Components are designed to operate in different environments and contexts.
 - **Extensible:** A component can be extended from existing components to provide new behavior.
 
- The advantages of using component based architecture are ease of deployment, reduced cost, ease of development, reusable, odification of technical complexity, reliability, system maintenance and evolution, and independent.
+The advantages of using component based architecture are ease of deployment, reduced cost, ease of development, reusable, odification of technical complexity, reliability, system maintenance and evolution, and independent.
 
 **What is Props and How to Use it in React**
 
