@@ -3,7 +3,9 @@
 ### About me:
 * My name is Layana Baba, i'm a chemical engineer, i have 24 years. 
 
-[My Github profile](https://github.com/LayanaBaba) 
+[My Github profile](https://github.com/LayanaBaba)
+
+## Things I want to know more about
 
 ## Code 102 - Intro to Software Development:
 
