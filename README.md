@@ -1,7 +1,7 @@
 # Reading notes
 
 ### About me:
-* My name is Layana Baba, i'm a chemical engineer, i have 24 years. 
+* My name is Layana Baba, i'm a chemical engineer, i worked in quality control departement foa the UGC, i have 24 years. 
 
 [My Github profile](https://github.com/LayanaBaba)
 
@@ -46,7 +46,7 @@
 
 |   *Assignment*   |                                 *Link*                                             |
 |------------------|------------------------------------------------------------------------------------|
-|    Read01        |[Introduction to React and Components](Code-301/read01.md)                          |
+|    Read01        |[Introduction to React and Components](code-301/read01.md)                          |
 |    Read02        |[State and Props](Code-301/read02.md)                                               |
 |    Read03        |[Passing Functions as Props](Code-301/read03.md)                                    |
 |    Read04        |[React and Forms](Code-301/read04.md)                                               |
