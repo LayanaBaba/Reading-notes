@@ -1,7 +1,7 @@
 # Reading notes
 
 ### About me:
-* My name is Layana Baba, i'm a chemical engineer, i worked in quality control departement for the UGC, i have 24 years. 
+* My name is Layana Baba, I'm a chemical engineer, I worked in quality control departement for the UGC, I have 24 years. 
 
 [My Github profile](https://github.com/LayanaBaba)
 
@@ -44,10 +44,11 @@
 
 ## Code 301 - Intermediate Software Development:
 
+
 |   *Assignment*   |                                 *Link*                                             |
 |------------------|------------------------------------------------------------------------------------|
 |    Read01        |[Introduction to React and Components](code-301/read01.md)                          |
-|    Read02        |[State and Props](Code-301/read02.md)                                               |
+|    Read02        |[State and Props](code-301/read02.md)                                               |
 |    Read03        |[Passing Functions as Props](Code-301/read03.md)                                    |
 |    Read04        |[React and Forms](Code-301/read04.md)                                               |
 |    Read05        |[Putting it all together](Code-301/read05.md)                                       |
@@ -62,6 +63,7 @@
 |    Read14        |[Diversity & Inclusion in the Tech Industry](Code-301/read14.md)                    |
 |    Read14b       |[Project Ideas](Code-301/read14b.md)                                                |
 |    Read15        |[Project Kickoff](Code-301/read15.md)                                               |
+
 
 ## Code 401 - Advanced Software Development:
 

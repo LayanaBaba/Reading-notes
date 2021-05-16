@@ -12,5 +12,3 @@
      State: handle inside a component and uppdate inside a compnent.
 * 3- when the state is used.
 * 4- Counter and Forms are some examples of things that we could store in state.
-
-
