@@ -17,7 +17,9 @@ const listItems = numbers.map((number) =>{
 
 });
 
-**Each list item needs a unique:** li element (unordered list tag < li> </ li>).
+###Each list item needs a unique:
+
+ li element (unordered list tag < li> </ li>).
 
 **What is the purpose of a key?**
 
