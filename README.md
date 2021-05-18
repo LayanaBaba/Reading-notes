@@ -51,18 +51,18 @@
 |    Read02        |[State and Props](code-301/read02.md)                                               |
 |    Read03        |[Passing Functions as Props](code-301/read03.md)                                    |
 |    Read04        |[React and Forms](code-301/read04.md)                                               |
-|    Read05        |[Putting it all together](Code-301/read05.md)                                       |
-|    Read06        |[NODE.JS](Code-301/read06.md)                                                       |
-|    Read07        |[REST](Code-301/read07.md)                                                          |
-|    Read08        |[APIs](Code-301/read08.md)                                                          |
-|    Read09        |[FUNCTIONAL PROGRAMMING](Code-301/read09.md)                                        |
-|    Read10        |[In memory storage](Code-301/read10.md)                                             |
-|    Read11        |[Authentication](Code-301/read11.md)                                                |
-|    Read12        |[Mongo and Mongoose](Code-301/read12.md)                                            |
-|    Read13        |[CRUD](Code-301/read13.md)                                                          |
-|    Read14        |[Diversity & Inclusion in the Tech Industry](Code-301/read14.md)                    |
-|    Read14b       |[Project Ideas](Code-301/read14b.md)                                                |
-|    Read15        |[Project Kickoff](Code-301/read15.md)                                               |
+|    Read05        |[Putting it all together](code-301/read05.md)                                       |
+|    Read06        |[NODE.JS](code-301/read06.md)                                                       |
+|    Read07        |[REST](code-301/read07.md)                                                          |
+|    Read08        |[APIs](code-301/read08.md)                                                          |
+|    Read09        |[FUNCTIONAL PROGRAMMING](code-301/read09.md)                                        |
+|    Read10        |[In memory storage](code-301/read10.md)                                             |
+|    Read11        |[Authentication](code-301/read11.md)                                                |
+|    Read12        |[Mongo and Mongoose](code-301/read12.md)                                            |
+|    Read13        |[CRUD](code-301/read13.md)                                                          |
+|    Read14        |[Diversity & Inclusion in the Tech Industry](code-301/read14.md)                    |
+|    Read14b       |[Project Ideas](code-301/read14b.md)                                                |
+|    Read15        |[Project Kickoff](code-301/read15.md)                                               |
 
 
 ## Code 401 - Advanced Software Development:
