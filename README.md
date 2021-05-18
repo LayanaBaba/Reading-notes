@@ -50,7 +50,7 @@
 |    Read01        |[Introduction to React and Components](code-301/read01.md)                          |
 |    Read02        |[State and Props](code-301/read02.md)                                               |
 |    Read03        |[Passing Functions as Props](code-301/read03.md)                                    |
-|    Read04        |[React and Forms](Code-301/read04.md)                                               |
+|    Read04        |[React and Forms](code-301/read04.md)                                               |
 |    Read05        |[Putting it all together](Code-301/read05.md)                                       |
 |    Read06        |[NODE.JS](Code-301/read06.md)                                                       |
 |    Read07        |[REST](Code-301/read07.md)                                                          |

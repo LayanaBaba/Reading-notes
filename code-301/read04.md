@@ -27,5 +27,3 @@ console.log(x===y) = (true ? 'yes' : "No";)
 
 
 
-
-
