@@ -21,7 +21,7 @@ When we need to write an if statement in a one line code.
 
 **Rewrite the following statement using a ternary statement**
 
-console.log(x===y) = (true ? 'yes' : "No";) 
+x===y ? = console.log(true) : console.log(false)
 
 
 
