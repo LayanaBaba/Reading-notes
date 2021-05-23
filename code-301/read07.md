@@ -71,3 +71,27 @@ If a system wants to replace something in another system.
 **What does PATCH do?**
 
 If a system wants to do a partial update.
+
+**Geocoding API**
+
+Did you get your API key?
+
+Yes.
+
+**Weather Bit API**
+
+Did you get your API key?
+
+Yes.
+
+**Yelp API Docs**
+
+Did you get your API key?
+
+Yes.
+
+**The Movie DB API Docs**
+
+Did you get your API key?
+
+Yes.
