@@ -60,9 +60,6 @@
 |    Read11        |[Authentication](code-301/read11.md)                                                |
 |    Read12        |[Mongo and Mongoose](code-301/read12.md)                                            |
 |    Read13        |[CRUD](code-301/read13.md)                                                          |
-|    Read14        |[Diversity & Inclusion in the Tech Industry](code-301/read14.md)                    |
-|    Read14b       |[Project Ideas](code-301/read14b.md)                                                |
-|    Read15        |[Project Kickoff](code-301/read15.md)                                               |
 
 
 ## Code 401 - Advanced Software Development:
