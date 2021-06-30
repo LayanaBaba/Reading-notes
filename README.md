@@ -70,3 +70,4 @@
 |    Read02        |[ Arrays, Loops, Imports](code-401/read02.md)                                       |
 |    Read03        |[ Maps, primitives, File I/O](code-401/read03.md)                                   |
 |    Read04        |[OOP](code-401/read04.md)                                                           |
+|    Read04        |[Linked Lists](code-401/read05.md)                                                  |
