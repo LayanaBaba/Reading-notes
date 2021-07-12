@@ -76,3 +76,4 @@
 |    Read09        |[WRRC and Java](code-401/read09.md)                                                 |
 |    Read10        |[Stacks & Queues](code-401/read10.md)                                               |
 |    Read11        |[Spring](code-401/read11.md)                                               |
+|    Read12        |[Spring RESTful Routing & Static Files](code-401/read12.md)                                               |
