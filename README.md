@@ -79,3 +79,4 @@
 |    Read12        |[Spring RESTful Routing & Static Files](code-401/read12.md)                         |
 |    Read13        |[Related Resources and Integration Testing](code-401/read13.md)                     |
 |    Read15        |[Trees](code-401/read15.md)                     |
+|    Read16        |[ Spring Authentication](code-401/read16.md)                     |
