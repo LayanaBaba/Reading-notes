@@ -74,5 +74,6 @@ You can configure Spring to enable WebSocket and STOMP messaging.
      }
      
      }
+     
 
   `WebSocketConfig` is annotated with `@Configuration` to indicate that it is a Spring configuration class. It is also annotated with `@EnableWebSocketMessageBroker`. As its name suggests, `@EnableWebSocketMessageBroker` enables WebSocket message handling, backed by a message broker.   
