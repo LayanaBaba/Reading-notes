@@ -82,3 +82,4 @@
 |    Read16        |[ Spring Authentication](code-401/read16.md)                     |
 |    Read17        |[ Spring Authentication](code-401/read17.md)                     |
 |    Read18        |[Web App Security](code-401/read18.md)                     |
+|    Read19        |[Spring and Sockets](code-401/read19.md)                     |
