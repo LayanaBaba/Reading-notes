@@ -84,3 +84,4 @@
 |    Read18        |[Web App Security](code-401/read18.md)                     |
 |    Read19        |[Spring and Sockets](code-401/read19.md)                     |
 |    Read26        |[Android Fundamentals](code-401/read26.md)                     |
+|    Read27        |[Intents, Activities, and SharedPreferences](code-401/read27.md)                     |
