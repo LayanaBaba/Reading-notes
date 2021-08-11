@@ -86,3 +86,5 @@
 |    Read26        |[Android Fundamentals](code-401/read26.md)                     |
 |    Read27        |[Intents, Activities, and SharedPreferences](code-401/read27.md)                     |
 |    Read28        |[RecyclerView](code-401/read28.md)                     |
+|    Read29        |[Room](code-401/read29.md)                     |
+|    Read30        |[Hash Tables](code-401/read30.md)                     |
