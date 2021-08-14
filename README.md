@@ -88,3 +88,4 @@
 |    Read28        |[RecyclerView](code-401/read28.md)                     |
 |    Read29        |[Room](code-401/read29.md)                     |
 |    Read30        |[Hash Tables](code-401/read30.md)                     |
+|    Read31        |[Espresso](code-401/read31.md)                     |
