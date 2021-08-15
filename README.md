@@ -89,3 +89,4 @@
 |    Read29        |[Room](code-401/read29.md)                     |
 |    Read30        |[Hash Tables](code-401/read30.md)                     |
 |    Read31        |[Espresso](code-401/read31.md)                     |
+|    Read32        |[Serverless and Amplify](code-401/read32.md)                     |
