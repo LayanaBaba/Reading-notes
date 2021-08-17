@@ -91,3 +91,4 @@
 |    Read31        |[Espresso](code-401/read31.md)                     |
 |    Read32        |[Serverless and Amplify](code-401/read32.md)                     |
 |    Read33        |[GraphQL @connection](code-401/read33.md)                     |
+|    Read34        |[Monetization](code-401/read34.md)                     |
