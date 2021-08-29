@@ -98,3 +98,4 @@
 |    Read38        |[Notifications](code-401/read38.md)                     |
 |    Read39        |[Kinesis](code-401/read39.md)                     |
 |    Read41        |[Intent Filters](code-401/read41.md)                     |
+|    Read42        |[Location](code-401/read42.md)                     |
