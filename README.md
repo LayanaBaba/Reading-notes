@@ -100,3 +100,4 @@
 |    Read41        |[Intent Filters](code-401/read41.md)                     |
 |    Read42        |[Location](code-401/read42.md)                     |
 |    Read42Ethics        |[Ethics in Tech](code-401/read42Ethics.md)                     |
+|    Read43        |[ Kinesis & Analytics](code-401/read43.md)                     |
